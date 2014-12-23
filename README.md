@@ -2,8 +2,8 @@
 
 **This exists to work around the below two bugs**
 
-https://tickets.puppetlabs.com/browse/SERVER-40
-https://tickets.puppetlabs.com/browse/SERVER-64
+* https://tickets.puppetlabs.com/browse/SERVER-40
+* https://tickets.puppetlabs.com/browse/SERVER-64
 
 
 Library for concatenating multiple files into 1.
