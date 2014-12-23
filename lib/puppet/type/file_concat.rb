@@ -1,9 +1,9 @@
-require 'puppet/type/file'
-require 'puppet/type/file/owner'
-require 'puppet/type/file/group'
-require 'puppet/type/file/mode'
-require 'puppet/util/checksums'
-require 'puppet/type/file/source'
+#require 'puppet/type/file'
+#require 'puppet/type/file/owner'
+#require 'puppet/type/file/group'
+#require 'puppet/type/file/mode'
+#require 'puppet/util/checksums'
+#require 'puppet/type/file/source'
 
 Puppet::Type.newtype(:file_concat) do
   @doc = "Gets all the file fragments and puts these into the target file.
